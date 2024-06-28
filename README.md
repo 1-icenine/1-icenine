@@ -5,7 +5,7 @@ Python Developer
 I graduated from Cooper Union in 2024 as a ChemE. I am a Python developer who enjoys creating data visualizations and automating tedious tasks. I developed a strong interest in data science and automation after interning at Infineum as an R&D engineering intern. I implemented an edge detection algorithm to autonomously capture and detect foam in our in-house chemicals at various temperatures and aerations in real-time. I assisted with back-end integration between a VB.net user interface, Arduino, and Python, enabling laboratory experimentation to be fully automated! Currently, I am working on personal projects analyzing data available online. If you enjoy my code or blogs, feel free to reach out and connect!
 
 * 🧠  I'm learning SQL, R, TensorFlow
-* 🤝  I'm open to collaborating on Automation Projects!
+* 🤝  I'm open to collaborating on Automation, Data Analysis, and Numerical Methods Projects!
 
 ### Skills
 
