@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nicholas Louie
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 Python Developer
 ----------------
-I graduated from Cooper Union in 2024 as a ChemE. I am a Python developer who enjoys creating data visualizations and automating tedious tasks. I developed a strong interest in data science and automation after interning at Infineum as an R&D engineering intern. I implemented an edge detection algorithm to autonomously capture and detect foam in our in-house chemicals at various temperatures and aerations in real-time. I assisted with back-end integration between a VB.net user interface, Arduino, and Python, enabling laboratory experimentation to be fully automated! Currently, I am working on personal projects analyzing data available online. Feel free to reach out and connect!
+I like working on automation projects that involve hardware and software components. Right now, I'm trying to improve my data analytical background.
 
-* 🧠  I'm learning SQL, R, TensorFlow
-* 🤝  I'm open to collaborating on Automation, Data Analysis, and Numerical Methods Projects!
+* 🧠  I'm learning SQL, R, Tableau
+* 🤝  I'm open to collaborating on Automation, Data Analysis, and Engineering-related Projects!
 
 ### Skills
 
