@@ -3,8 +3,7 @@
 > [!IMPORTANT]
 > Hey, I'm **Nick**!
 >
-> I work on small hobby projects in topics I like: data visualizations, IoT, automation, and process simulations. My goal has always been to create accessible and efficient code without compromising quality. When I'm not programming, you can expect me to be playing blues music with my guitar or studying some Cantonese.
-> 
+> I work on small hobby projects in topics I like: data visualizations, IoT, automation, process simulations, and generative art. My goal has always been to create accessible and efficient code without compromising quality. When I'm not programming, you can expect me to be playing rock music on my guitar or studying some Cantonese.
 > If you enjoy my code or tools, feel free to reach out and connect via LinkedIn!
 
 ---
