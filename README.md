@@ -11,5 +11,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=My+Portfolio%3A)](https://git.io/typing-svg)
 
-🔗 [View My Portfolio](https://github.com/1-icenine/Portfolio)
+🔗 [View My Data Analytics / Coding Portfolio](https://github.com/1-icenine/Portfolio) <br>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=F7F7F7&width=435&lines=My+Hobby+Projects%3A)](https://git.io/typing-svg)
+
+🎵 [View My Music](https://www.youtube.com/@Ni2_Plus) <br>
+🎮 [View My Games](https://ni2plus.itch.io/)
+
 
